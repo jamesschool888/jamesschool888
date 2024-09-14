@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jamesschool888
 - 🌱 I’m currently learning Django
-- 📫 How to reach me: https://www.facebook.com/orvillegainz
-                       https://www.instagram.com/7he_orville/
+- 📫 How to reach me: https://www.facebook.com/orvillegainz -
+                       instagram: 7he_orville -
+                       discord: jaime_88
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love working out as much as I love coding
 
